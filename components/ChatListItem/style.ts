@@ -14,7 +14,7 @@ const style = StyleSheet.create({
         height: 60,
         marginRight: 10,
         borderRadius: 50,
-        margin: 15,
+        margin: 10,
     },
     username: {
         fontWeight: 'bold',
@@ -23,7 +23,8 @@ const style = StyleSheet.create({
     },
     lastMessage: {
         fontSize: 16,
-        color: 'grey'
+        color: 'grey',
+        // width: '200%',
     },
     time: {
         fontSize: 16,

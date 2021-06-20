@@ -47,7 +47,7 @@ function RootNavigator() {
         name="Root"
         component={MainTabNavigator}
         options={{
-          title: "REVA Chat",
+          title: "Indi Chat",
           headerRight: () => (
             <View style={{
               flexDirection: 'row',
