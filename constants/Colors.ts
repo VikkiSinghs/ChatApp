@@ -1,4 +1,6 @@
-const tintColorLight = '#2f95dc';
+import { Colors } from "react-native/Libraries/NewAppScreen";
+
+const tintColorLight = '#0C6157';
 const tintColorDark = '#fff';
 
 export default {
